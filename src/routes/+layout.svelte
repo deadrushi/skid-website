@@ -63,7 +63,7 @@
 	<meta name="twitter:image" itemprop="image" content="/default.png" />
 	<meta name="twitter:card" content="summary" />
 	<meta name="theme-color" content="#CCE2F2" />
-	<title>deadrushi#1099</title>
+	<title>deadrushi#0090</title>
 </svelte:head>
 
 <svelte:window on:click={playSFX} />
